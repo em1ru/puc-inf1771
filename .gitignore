@@ -1,0 +1,33 @@
+# Byte-compiled / arquivos otimizados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do Sistema Operacional (Windows/Mac)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Ambientes Virtuais Python
+venv/
+env/
+.venv/
+.env/
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de Log e Cache Locais
+*.log
+.pytest_cache/
+
+# Ignore mapas enormes baixados localmente caso haja (Opcional, comente se quiser versionar os mapas base reais no git)
+# *.txt

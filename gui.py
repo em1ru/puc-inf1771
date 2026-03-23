@@ -49,7 +49,7 @@ class Application(tk.Tk):
         style.theme_use('clam')
         
         # Navbar / Top Controle
-        top_frame = tk.Frame(self, bg="#444", pd=5)
+        top_frame = tk.Frame(self, bg="#444", padx=5, pady=5)
         top_frame.pack(side=tk.TOP, fill=tk.X)
         
         ttk.Button(top_frame, text="Carregar Mapa (.txt)", command=self.action_load_map).pack(side=tk.LEFT, padx=5)
