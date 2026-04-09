@@ -138,4 +138,6 @@ Executado com Simulated Annealing (500.000 iterações, seed=42) no mapa padrão
 
 ## Autores
 
-Gabriel Emile - 2224098
+Gabriel Emile - 2224098  
+Lis Almeida - 2421294  
+Rafaela Bessa - 2420043
