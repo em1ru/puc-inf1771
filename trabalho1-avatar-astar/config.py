@@ -6,7 +6,7 @@
 # ---------------------------------------------------------------------------
 # Custos de terreno
 # Cada caractere do mapa mapeia para um custo de travessia.
-# Nota: 'F' = Floresta no arquivo de mapa (não 'V', que é o checkpoint #22).
+# Nota: 'F' = Floresta no arquivo de mapa (não 'V', que é o símbolo do checkpoint da Etapa 27).
 # ---------------------------------------------------------------------------
 TERRAIN_COSTS: dict[str, int] = {
     ".": 1,    # Plano
