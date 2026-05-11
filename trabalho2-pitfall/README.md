@@ -2,12 +2,11 @@
 
 Implementação do agente Pitfall Harry usando **SWI-Prolog + Python**, baseada no exemplo do Mundo do Wumpus.
 
-## Membros do Grupo
+## Autores
 
-| Nome | Matrícula |
-|------|-----------|
-| (nome) | (matrícula) |
-| (nome) | (matrícula) |
+Gabriel Emile - 2224098  
+Lis Almeida - 2421294  
+Rafaela Bessa - 2420043
 
 ## Vídeo de Apresentação
 
